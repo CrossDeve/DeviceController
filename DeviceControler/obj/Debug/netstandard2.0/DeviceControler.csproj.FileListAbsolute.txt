@@ -1,0 +1,9 @@
+C:\Users\TUF Laptop\source\repos\DeviceControler\DeviceControler\bin\Debug\netstandard2.0\DeviceControler.deps.json
+C:\Users\TUF Laptop\source\repos\DeviceControler\DeviceControler\bin\Debug\netstandard2.0\DeviceControler.dll
+C:\Users\TUF Laptop\source\repos\DeviceControler\DeviceControler\bin\Debug\netstandard2.0\DeviceControler.pdb
+C:\Users\TUF Laptop\source\repos\DeviceControler\DeviceControler\obj\Debug\netstandard2.0\DeviceControler.csprojAssemblyReference.cache
+C:\Users\TUF Laptop\source\repos\DeviceControler\DeviceControler\obj\Debug\netstandard2.0\DeviceControler.csproj.CoreCompileInputs.cache
+C:\Users\TUF Laptop\source\repos\DeviceControler\DeviceControler\obj\Debug\netstandard2.0\DeviceControler.AssemblyInfoInputs.cache
+C:\Users\TUF Laptop\source\repos\DeviceControler\DeviceControler\obj\Debug\netstandard2.0\DeviceControler.AssemblyInfo.cs
+C:\Users\TUF Laptop\source\repos\DeviceControler\DeviceControler\obj\Debug\netstandard2.0\DeviceControler.dll
+C:\Users\TUF Laptop\source\repos\DeviceControler\DeviceControler\obj\Debug\netstandard2.0\DeviceControler.pdb
